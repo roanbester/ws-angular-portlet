@@ -1,0 +1,23 @@
+<portlet-app xmlns="http://java.sun.com/xml/ns/portlet/portlet-app_2_0.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="ws-angular-portlet"
+	version="2.0">
+
+	<portlet>
+		<portlet-name>AngularPortlet</portlet-name>
+		<display-name>AngularPortlet</display-name>
+		<portlet-class>codingglass.portlet.angularportlet.AngularPortlet
+		</portlet-class>
+
+		<supports>
+			<mime-type>text/html</mime-type>
+			<portlet-mode>view</portlet-mode>
+		</supports>
+
+		<supported-locale>en_ZA</supported-locale>
+
+		<portlet-info>
+			<title>Angular portlet for WS Portal</title>
+		</portlet-info>
+	</portlet>
+
+</portlet-app>
