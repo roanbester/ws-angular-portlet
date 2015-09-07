@@ -1,0 +1,1 @@
+# ws-angular-portlet
