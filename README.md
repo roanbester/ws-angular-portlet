@@ -1,3 +1,5 @@
+> DEPRECATED: From Portal 8.5 onwards, prefer to use Script Applications with Angular (any version) as opposed to JSR286 portlets.
+
 # ws-angular-portlet
 ## Overview
 This project demonstrates how to create a JSR 286 portlet for IBM Websphere Portal, using minimal dependencies, that uses an AngularJS UI.
